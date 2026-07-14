@@ -1,4 +1,4 @@
-# Smart Expense Tracker 💰 (MERN Stack — India Edition)
+# Smart Expense Tracker 💰 (MERN Stack)
 
 A full-stack personal finance management application for tracking expenses, categorizing transactions, and visualizing spending patterns — built for Indian users with ₹ (INR) currency formatting and UPI as a payment method.
 
